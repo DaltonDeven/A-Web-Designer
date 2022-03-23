@@ -1,0 +1,106 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 20px;
+  background-color: #F7E2E2;
+
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Montez', cursive;
+  font-size: 60px;
+}
+
+.Top-Container{
+  background-color: #F6E7D8;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+  padding: 0;
+  margin: 0;
+}
+
+.mountain{
+  padding-left: 205px;
+}
+.cloud{
+ position: absolute;
+ left: 300px;
+ Bottom:400px;
+}
+.cloud2{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.profile{
+  background-color: #F7E2E2;
+}
+.skills{
+  background-color: #F7E2E2;
+}
+
+.contact-me{
+  background-color: #F7E2E2;
+}
+
+.bottom-container{
+  background-color:#F7E2E2;
+}
+
+.Html{
+position:absolute;
+height: 70px;
+width:70px;
+left: 150px;
+top: 50px;
+}
+
+.css{
+  position:absolute;
+  height: 60px;
+  width:60px;
+  left: 100px;
+  top: 120px;
+}
+
+.java{
+  position:absolute;
+  height: 58px;
+  width:58px;
+  left: 215px;
+  top: 120px;
+}
+
+.coding{
+  position:absolute;
+  height: 330px;
+  width: 330px;
+  right: 30px;
+  top: 120px;
+}
+
+li{
+list-style-type: none;
+align-items: center;
+align-content: center;
+}
+
+hr{
+   height: 5px;
+   border: 2px solid black;
+   border-radius: 10px;
+   background: linear-gradient(to left, blue, red);
+}
+
+.giphy{
+  position: absolute;
+  height: 350px;
+  width: 350px;
+  right: 140px;
+}
